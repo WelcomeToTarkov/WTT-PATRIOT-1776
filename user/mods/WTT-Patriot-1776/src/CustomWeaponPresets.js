@@ -33,7 +33,7 @@ const modPath = path.normalize(path.join(__dirname, ".."));
 class CustomWeaponPresets {
     Instance;
     assortSchemes;
-    preAkiLoad(Instance) {
+    preSptLoad(Instance) {
         this.Instance = Instance;
     }
     postDBLoad() {

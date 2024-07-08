@@ -4,7 +4,7 @@
     "version": "1.0.1",
     "license": "NCSA",
     "main": "src/mod.js",
-    "akiVersion": "~3.9",
+    "sptVersion": "~3.9",
 	"loadBefore": [],
 	"loadAfter": [],
     "isBundleMod": true,
