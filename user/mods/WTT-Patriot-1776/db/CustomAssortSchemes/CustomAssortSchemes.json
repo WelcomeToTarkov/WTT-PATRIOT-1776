@@ -1,0 +1,50 @@
+{
+    "PEACEKEEPER": {
+		"items": [
+			  {
+				"_id": "6683977a37a029a3f4ce563b",
+				"_tpl": "66839591f4d0cba7b041b2af",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+				  "StackObjectsCount": 99805,
+				  "Repairable": {
+					"Durability": 100,
+					"MaxDurability": 100
+				  }
+				}
+			  },
+			  {
+				"_id": "6683978b37b11d6dc2f5c37c",
+				"_tpl": "55d4887d4bdc2d962f8b4570",
+				"parentId": "6683977a37a029a3f4ce563b",
+				"slotId": "mod_magazine"
+			  },
+			  {
+				"_id": "6683998bd5a97670ba59f335",
+				"_tpl": "55d44fd14bdc2d962f8b456e",
+				"parentId": "6683977a37a029a3f4ce563b",
+				"slotId": "mod_charge"
+			  },
+			  {
+				"_id": "66839787f27d66e19ce0be87",
+				"_tpl": "6683957f2e516f6146af483d",
+				"parentId": "6683977a37a029a3f4ce563b",
+				"slotId": "mod_sight_rear"
+			  }
+        ],
+        "barter_scheme": {
+			"6683977a37a029a3f4ce563b": [
+				[
+					{
+						"count": 1776,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			]
+		},
+		"loyal_level_items": {
+			"6683977a37a029a3f4ce563b": 2
+		}
+    }
+}
